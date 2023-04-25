@@ -1,0 +1,7 @@
+{application, ejabberd,
+ [
+  {applications, []}
+  {description, "ejabberd_deps"},
+  {vsn, "1.0.0"},
+  {mod, { ejabberd_app, []}}
+ ]}.

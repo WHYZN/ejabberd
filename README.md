@@ -1,1 +1,2 @@
-# ejabberd
+# jabber_server
+
